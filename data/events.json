@@ -1,0 +1,19 @@
+[
+  {},
+  {
+    "title": "New Event",
+    "description": "This is a new event",
+    "totalParticipants": 50,
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-02",
+    "id": "1717868393430"
+  },
+  {
+    "title": "New Event",
+    "description": "This is a new event",
+    "totalParticipants": 50,
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-02",
+    "id": "1717868396849"
+  }
+]
